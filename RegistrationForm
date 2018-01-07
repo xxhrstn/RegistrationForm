@@ -7,5 +7,5 @@
 <h2>Fill Up The Given Forms</h2>
 
 <form targets="Name"></label>
-<inu
+<input type="text"> </input>
 
